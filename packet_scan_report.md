@@ -62,4 +62,3 @@ This document summarizes the findings from the network traffic capture and highl
 - A few "Ignored Unknown Record" messages.
 
 ---
-"""
